@@ -48,4 +48,5 @@ public class Advisor {
     public void setPhone(Integer phone) {
         this.phone = phone;
     }
+
 }
